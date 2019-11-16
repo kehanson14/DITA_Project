@@ -269,7 +269,27 @@
             </image>
         </example>
     </taskbody>
-</task><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="wetonwet" oid="wetonwet">
+</task><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="task_gs5_5hs_sjb" oid="task_gs5_5hs_sjb">
+    <title class="- topic/title ">How to let your icing crust</title>
+    <shortdesc class="- topic/shortdesc ">Allowing your icing to crust by using an oven, dehydrator, or time itself can be a
+        very important middle step when decorating cookies with royal icing.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">There are multiple methods to letting your icing crust.</context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Place in oven at 170 F for 10 minutes, then remove from oven and let cookies
+                    cool on pan.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use a dehydrator.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Let icing air dry for several hours, then return later or the next day to add
+                    details.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="wetonwet" oid="wetonwet">
     <title class="- topic/title ">How to do the wet-on-wet icing technique</title>
     <shortdesc class="- topic/shortdesc ">The wet-on-wet icing technique allows you to add details with other colors while
         the flood layer is still wet and hasn't crusted. Your base flood icing and colored icing
@@ -285,7 +305,7 @@
             </step>
         </steps>
     </taskbody>
-<task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="polkadots" oid="polkadots">
+<task class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="polkadots" oid="polkadots">
     <title class="- topic/title ">How to create polka dots with wet-on-wet icing technique</title>
     <shortdesc class="- topic/shortdesc ">Polka dots are an easy way to use the wet-on-wet icing technique.</shortdesc>
     <taskbody class="- topic/body task/taskbody ">
@@ -311,7 +331,7 @@
             </image>
         </example>
     </taskbody>
-</task><task class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="stripes" oid="stripes">
+</task><task class="- topic/topic task/task " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="stripes" oid="stripes">
     <title class="- topic/title ">How to create stripes with wet-on-wet icing technique</title>
     <shortdesc class="- topic/shortdesc ">You can make stripes using the wet-on-wet icing technique. 
         These can then be turned into zig-zags or allowed to dry as is!</shortdesc>
@@ -335,7 +355,7 @@
             </step>
         </steps>
     </taskbody>
-</task><task class="- topic/topic task/task " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="zigzags" oid="zigzags">
+</task><task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="zigzags" oid="zigzags">
     <title class="- topic/title ">How to create zig-zags with wet-on-wet icing technique</title>
     <shortdesc class="- topic/shortdesc ">Zig-zags are a more advanced wet-on-wet icing technique. 
         Begin by piping stripes, then use a scribe tool to complete the design.</shortdesc>
@@ -355,7 +375,7 @@
             </step>
         </steps>
     </taskbody>
-</task></task><concept class="- topic/topic concept/concept " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="detailpiping" oid="detailpiping">
+</task></task><concept class="- topic/topic concept/concept " id="unique_18" topicrefclass="- map/topicref " nd:nd-id="detailpiping" oid="detailpiping">
     <title class="- topic/title ">Detail Piping</title>
     <shortdesc class="- topic/shortdesc ">Detail piping is often the key to gorgeous sugar cookies.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
