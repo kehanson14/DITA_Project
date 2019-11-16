@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="flood1">
+    <title>How to flood a cookie</title>
+    <shortdesc>There are multiple ways to flood a cookie, but we'll teach you the currently preferred style.
+    This style requires you to outline the cookie with flood icing, and then immediately fill it in.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This is the first step to decorating beautiful sugar cookies.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Outline the portion of the cookie you want to flood using a piping bag full of flooding icing.</cmd>
+            </step>
+            <step>
+                <cmd>Immediately fill inside of the outline with same icing.</cmd>
+            </step>
+            <step>
+                <cmd>Gently pull icing out to cookie's edges using a scribe tool.</cmd>
+            </step>
+            <step>
+                <cmd>Pop air bubbles and close frosting gaps with scribe tool.</cmd>
+            </step>
+            <step>
+                <cmd>If needed, level your icing by gently shaking cookie side-to-side.</cmd>
+            </step>
+        </steps>
+        <example>
+            <p>The images below demonstrate steps 1-4.</p>
+            <image href="images/flood/1.png" placement="break" height="300px" width="300px">
+                <alt>initial flooding outline</alt>
+            </image>
+            <image href="images/flood/2.png" placement="inline" height="300px" width="300px">
+                <alt>flooding</alt>
+            </image>
+            <image href="images/flood/3.png" placement="inline" height="300px" width="300px">
+                <alt>finished flooding</alt>
+            </image>
+        </example>
+    </taskbody>
+</task>

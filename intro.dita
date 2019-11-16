@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro">
+    <title>Welcome!</title>
+    <shortdesc>Decorating sugar cookies with royal icing is a challenge.
+        However, the outcome is often beautiful (and delicious!).
+        Custom, hand-decorated cookies are expensive, so learning to 
+        decorate on your own can be very rewarding!</shortdesc>
+    <conbody>
+        <p>Detailed decorating takes focus; it can be a way to slow down,
+            relax, and direct your attention towards something besides life's
+            normal stressors. The best part of sugar cookie decorating 
+            is that if you make a mistake, you can just eat it!</p>
+    </conbody>
+</concept>

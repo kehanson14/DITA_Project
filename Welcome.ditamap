@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Decorating Sugar Cookies</mainbooktitle>
+    </booktitle>
+    <chapter href="intro.dita"/>
+    <chapter href="prep.ditamap" format="ditamap"/>
+    <chapter href="techniques.ditamap" format="ditamap"/>
+</bookmap>

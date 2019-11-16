@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" xtrc="bookmap:1;3:10" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <booktitle xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title bookmap/booktitle " xtrc="booktitle:1;4:16" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle " xtrc="mainbooktitle:1;5:24" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap">Decorating Sugar Cookies</mainbooktitle>  </booktitle>
+    <chapter xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref bookmap/chapter " xtrc="chapter:1;7:33" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_1" id="unique_1" type="concept" ohref="intro.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="intro"><resourceid class="- topic/resourceid " oxy-source="topic" appid="intro"/><navtitle class="- topic/navtitle ">Welcome!</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Welcome!</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Why decorate sugar cookies?</shortdesc></topicmeta></chapter>
+    <chapter xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref bookmap/chapter " xtrc="chapter:2;8:37" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_2" id="unique_2" type="concept" ohref="royalicing.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " data-topic-id="royalicing"><resourceid class="- topic/resourceid " oxy-source="topic" appid="royalicing"/><navtitle class="- topic/navtitle ">Preparing Your Royal Icing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Preparing Your Royal Icing</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Explanation of royal icing in relation to sugar cookies.</shortdesc></topicmeta><topicref class="- map/topicref " xtrc="topicref:1;9:41" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_3" id="unique_3" type="reference" ohref="nectools.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " data-topic-id="nectools"><resourceid class="- topic/resourceid " oxy-source="topic" appid="nectools"/><navtitle class="- topic/navtitle ">Necessary Tools</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Necessary Tools</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Tools needed to make royal icing and decorate sugar cookies.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:2;10:44" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_4" id="unique_4" type="reference" ohref="ingredients.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " data-topic-id="tools"><resourceid class="- topic/resourceid " oxy-source="topic" appid="tools"/><navtitle class="- topic/navtitle ">Royal Icing Ingredients</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Royal Icing Ingredients</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Ingredients needed to make royal icing.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:3;11:43" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_5" id="unique_5" type="task" ohref="makingbase.dita" first_topic_id="#unique_5"><topicmeta class="- map/topicmeta " data-topic-id="makingbase"><resourceid class="- topic/resourceid " oxy-source="topic" appid="makingbase"/><navtitle class="- topic/navtitle ">How to make white royal icing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to make white royal icing</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to make your base royal icing.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:4;12:40" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_6" id="unique_6" type="task" ohref="coloring.dita" first_topic_id="#unique_6"><topicmeta class="- map/topicmeta " data-topic-id="coloring"><resourceid class="- topic/resourceid " oxy-source="topic" appid="coloring"/><navtitle class="- topic/navtitle ">How to color and thin your icing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to color and thin your icing</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to color and thin royal icing.</shortdesc></topicmeta><topicref class="- map/topicref " xtrc="topicref:5;13:47" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_7" id="unique_7" type="concept" ohref="darkcolors.dita" first_topic_id="#unique_7"><topicmeta class="- map/topicmeta " data-topic-id="darkcolors"><resourceid class="- topic/resourceid " oxy-source="topic" appid="darkcolors"/><navtitle class="- topic/navtitle ">Note on deep and dark icing colors</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Note on deep and dark icing colors</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref><topicref class="- map/topicref " xtrc="topicref:6;15:40" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_8" id="unique_8" type="task" ohref="fillbag.dita" first_topic_id="#unique_8"><topicmeta class="- map/topicmeta " data-topic-id="task_i2r_5sr_sjb"><resourceid class="- topic/resourceid " oxy-source="topic" appid="task_i2r_5sr_sjb"/><navtitle class="- topic/navtitle ">How to fill a piping bag</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to fill a piping bag</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to fill a piping bag.</shortdesc></topicmeta></topicref></chapter>
+    <chapter xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref bookmap/chapter " xtrc="chapter:3;17:32" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_9" id="unique_9" type="concept" ohref="techs.dita" first_topic_id="#unique_9"><topicmeta class="- map/topicmeta " data-topic-id="techs"><resourceid class="- topic/resourceid " oxy-source="topic" appid="techs"/><navtitle class="- topic/navtitle ">Icing Techniques</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Icing Techniques</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " xtrc="topicref:7;18:41" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_10" id="unique_10" type="concept" ohref="flooding.dita" first_topic_id="#unique_10"><topicmeta class="- map/topicmeta " data-topic-id="flooding"><resourceid class="- topic/resourceid " oxy-source="topic" appid="flooding"/><navtitle class="- topic/navtitle ">Flooding</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Flooding</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">An explanation of the flooding technique.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:8;19:39" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_11" id="unique_11" type="task" ohref="flood1.dita" first_topic_id="#unique_11"><topicmeta class="- map/topicmeta " data-topic-id="flood1"><resourceid class="- topic/resourceid " oxy-source="topic" appid="flood1"/><navtitle class="- topic/navtitle ">How to flood a cookie</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to flood a cookie</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to flood a cookie in the current style.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:9;20:40" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_12" id="unique_12" type="task" ohref="wetonwet.dita" first_topic_id="#unique_12"><topicmeta class="- map/topicmeta " data-topic-id="wetonwet"><resourceid class="- topic/resourceid " oxy-source="topic" appid="wetonwet"/><navtitle class="- topic/navtitle ">How to do the wet-on-wet icing technique</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to do the wet-on-wet icing technique</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to do the wet-on-wet icing technique.</shortdesc></topicmeta><topicref class="- map/topicref " xtrc="topicref:10;21:46" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_13" id="unique_13" type="task" ohref="polkadots.dita" first_topic_id="#unique_13"><topicmeta class="- map/topicmeta " data-topic-id="polkadots"><resourceid class="- topic/resourceid " oxy-source="topic" appid="polkadots"/><navtitle class="- topic/navtitle ">How to create polka dots with wet-on-wet icing technique</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to create polka dots with wet-on-wet icing technique</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to create polka dots with the wet-on-wet icing technique.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:11;22:44" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_14" id="unique_14" type="task" ohref="stripes.dita" first_topic_id="#unique_14"><topicmeta class="- map/topicmeta " data-topic-id="stripes"><resourceid class="- topic/resourceid " oxy-source="topic" appid="stripes"/><navtitle class="- topic/navtitle ">How to create stripes with wet-on-wet icing technique</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to create stripes with wet-on-wet icing technique</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to create stripes with wet-on-wet icing technique.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:12;23:44" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_15" id="unique_15" type="task" ohref="zigzags.dita" first_topic_id="#unique_15"><topicmeta class="- map/topicmeta " data-topic-id="zigzags"><resourceid class="- topic/resourceid " oxy-source="topic" appid="zigzags"/><navtitle class="- topic/navtitle ">How to create zig-zags with wet-on-wet icing technique</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to create zig-zags with wet-on-wet icing technique</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">How to create zig-zags with wet-on-wet icing technique.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " xtrc="topicref:13;25:45" xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap" href="#unique_16" id="unique_16" type="concept" ohref="detailpiping.dita" first_topic_id="#unique_16"><topicmeta class="- map/topicmeta " data-topic-id="detailpiping"><resourceid class="- topic/resourceid " oxy-source="topic" appid="detailpiping"/><navtitle class="- topic/navtitle ">Detail Piping</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Detail Piping</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Detail piping is often the key to gorgeous sugar cookies.</shortdesc></topicmeta></topicref></chapter>
+</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="concept:1;3:21" oid="intro" id="unique_1">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="title:1;4:12">Welcome!</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="shortdesc:1;5:16">Why decorate sugar cookies?</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="p:1;7:12">Decorating sugar cookies with royal icing is a challenge.
+        However, the outcome is often beautiful (and delicious!).
+        Custom, hand-decorated cookies are expensive, so learning to 
+        decorate on your own can be very rewarding!</p>
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="p:2;11:12">Detailed decorating takes focus; it can be a way to slow down,
+            relax, and direct your attention towards something besides life's
+            normal stressors. The best part of sugar cookie decorating 
+            is that if you make a mistake, you can just eat it!</p>
+    </conbody>
+</concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="concept:1;3:26" oid="royalicing" id="unique_2">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="title:1;4:12">Preparing Your Royal Icing</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="shortdesc:1;5:16">Explanation of royal icing in relation to sugar cookies.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="p:1;7:12">Royal icing is used to decorate sugar cookies because it dries quickly and its
+            consistency is nice to work with when decorating.</p>
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="p:2;9:12">Mastering icing consistency is the key to successful sugar cookie decorating.</p>
+        
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="p:3;11:12">Royal icing is finicky and hard to work with until you get to know 
+            it through lots of hands-on practice. Many people give up because 
+            it's tricky to master. You might need several tries to get it right.</p>
+        
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="p:4;15:12">Royal icing consistency is affected by the 
+            humidity in the air. Therefore, a specific ratio of water 
+            in any given recipe may have different results on different 
+            days when mixing for the consistency you desire.</p>
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/royalicing.dita" xtrc="p:5;19:12">You can watch videos on YouTube to learn how to get the right icing consistencies.</p>
+    </conbody>
+<reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="reference:1;3:26" oid="nectools" id="unique_3">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="title:1;4:12">Necessary Tools</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="shortdesc:1;5:16">Tools needed to make royal icing and decorate sugar cookies.</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="refbody:1;6:14">
+        <section class="- topic/section " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="section:1;7:18">
+            <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="title:2;8:20">Tools for icing preparation</title>
+                <ul class="- topic/ul " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="ul:1;9:21">
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:1;10:25">Large bowl</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:2;11:25">Small whisk</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:3;12:25">Spoon(s) or spatula(s)</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:4;13:25">Gel food coloring</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:5;14:25">One small bowl per icing color</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:6;15:25">One piping bag per icing color</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:7;16:25">Tall glass</li>
+                </ul>
+        </section>
+        <section class="- topic/section " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="section:2;19:18">
+            <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="title:3;20:20">Tools for decorating</title>
+                <ul class="- topic/ul " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="ul:2;21:21">
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:8;22:25">Your piping bags filled with flooding and decorating icings</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:9;23:25">Scribe tool or toothpick</li>
+                    <li class="- topic/li " xtrf="file:/Users/katehanson/Desktop/DITA/nectools.dita" xtrc="li:10;24:25">Patience</li>
+                </ul>
+        </section>
+    </refbody>
+</reference><reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="reference:1;3:23" oid="tools" id="unique_4">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="title:1;4:12">Royal Icing Ingredients</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="shortdesc:1;5:16">Ingredients needed to make royal icing.</shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="refbody:1;6:14">
+      <simpletable class="- topic/simpletable " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="simpletable:1;7:20">
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:1;8:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:1;9:24">3 Tbsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:2;10:24">meringue powder</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:2;12:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:3;13:24">1/2 cup</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:4;14:24">warm water</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:3;16:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:5;17:24">3 Tbsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:6;18:24">light corn syrup</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:4;20:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:7;21:24">1 tsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:8;22:24">vanilla extract</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:5;24:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:9;25:24">1 tsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:10;26:24">almond extract</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:6;28:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:11;29:24">2 lbs</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:12;30:24">powdered sugar</stentry>
+          </strow>
+      </simpletable>
+    </refbody>
+</reference><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="task:1;3:23" oid="makingbase" id="unique_5">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="title:1;4:12">How to make white royal icing</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="shortdesc:1;5:16">How to make your base royal icing.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="p:1;8:16">This is your basic royal icing. You will later modify the 
+                consistency of this icing to make flooding icing and detail 
+                piping icing.</p>
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="p:2;11:16">Do NOT overmix your icing. Overmixed royal icing doesn't dry well 
+            on cookies and will easily crumble and fall off the cookie. It
+            also tastes disgusting.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="steps:1;15:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:1;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:1;17:22">Whisk meringue powder and warm water together by hand with a small whisk in a large mixing bowl.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:2;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:2;20:22">Whisk in light corn syrup, vanilla extract, and almond extract.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:3;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:3;23:22">Add the powdered sugar to the bowl.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:4;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:4;26:22">Move your bowl to a mixer and mix on low speed with a paddle for 30 seconds or
+                    until combined.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:5;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:5;30:22">Scrape bottom and sides of bowl with a spatula.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:6;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:6;33:22">Continue mixing on low speed for 2-3 minutes.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:7;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:7;36:22">Look for stiff peaks in icing. To do this, put your paddle or 
+                    a spoon into the icing and then pull it out. The icing peaks 
+                    should stay formed with little to no bending or falling over.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:8;40:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:8;41:22">If peaks are not stiff, mix for 1 more minute.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="step:9;43:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/makingbase.dita" xtrc="cmd:9;44:22">Cover in airtight container to prevent drying.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="task:1;3:21" oid="coloring" id="unique_6">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="title:1;4:12">How to color and thin your icing</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="shortdesc:1;5:16">How to color and thin royal icing.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="p:1;8:16">Royal icing is colored by mixing small amounts of water
+                and food gel coloring into the icing bowl. At times,
+                a few drops of water makes the difference between too thick, 
+                too thin, or just right.</p>
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="p:2;12:16">Each icing color should be mixed in a separate bowl.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="steps:1;14:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="step:1;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="cmd:1;16:22">Squeeze a drop or two of gel food coloring into your 
+                    bowl of icing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="step:2;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="cmd:2;20:22">Thin your icing to the right consistency by adding 
+                    small amounts of water with a half-teaspoon or a 
+                    small spray bottle.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="step:3;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/coloring.dita" xtrc="cmd:3;25:22">Cover in airtight container or place in piping bag or close.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/katehanson/Desktop/DITA/darkcolors.dita" xtrc="concept:1;3:26" oid="darkcolors" id="unique_7">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/darkcolors.dita" xtrc="title:1;4:12">Note on deep and dark icing colors</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/darkcolors.dita" xtrc="shortdesc:1;5:16"/>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/katehanson/Desktop/DITA/darkcolors.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/darkcolors.dita" xtrc="p:1;7:12">Deep or dark colors such as red, navy blue, 
+            and black require a great deal of food coloring.</p> 
+            
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/darkcolors.dita" xtrc="p:2;10:12">Colors intensify across time. If a dark color is needed, mix a good amount 
+            of color into the icing, then let icing sit in airtight bowl for at least 
+            two hours. This allows the color to darken and prevents you from adding 
+            too much coloring.</p>
+         
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/darkcolors.dita" xtrc="p:3;15:12">Dark colors tend to stain the mouth when eaten.</p>
+    </conbody>
+</concept></task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="task:1;3:29" oid="task_i2r_5sr_sjb" id="unique_8">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="title:1;4:12">How to fill a piping bag</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="shortdesc:1;5:16">How to fill a piping bag.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="context:1;7:18">Once you're ready to start decorating, fill your piping bags with icing.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="cmd:1;10:22">Open bag and place inside a tall glass, then cuff bag over sides so it holds itself open.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="step:2;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="cmd:2;13:22">Pour or scrape your icing into the bag.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="step:3;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="cmd:3;16:22">Close bag by tying a knot, using a bag clip, or using a twistie.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/katehanson/Desktop/DITA/techs.dita" xtrc="concept:1;3:21" oid="techs" id="unique_9">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/techs.dita" xtrc="title:1;4:12">Icing Techniques</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/techs.dita" xtrc="shortdesc:1;5:16"/>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/katehanson/Desktop/DITA/techs.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/techs.dita" xtrc="p:1;7:12"/>
+    </conbody>
+<concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="concept:1;3:24" oid="flooding" id="unique_10">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="title:1;4:12">Flooding</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="shortdesc:1;5:16">An explanation of the flooding technique.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="p:1;7:12">Flooding gives your cookie an even base layer of icing to 
+            which you can later add details.</p>
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="p:2;9:12">Icing used for flooding should have a consistency that is thin
+        enough to flow into itself but thick enough that it doesn't
+        drip off the cookie.</p>
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="p:3;12:12">A perfectly flooded cookie has even thickness across the cookies,
+        is a little puffy, and has a slight shine after it has dried.</p>
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/flooding.dita" xtrc="p:4;14:12">You can flood cookies in sections to add dimension, or flood
+        the entire cookie at once.</p>
+    </conbody>
+</concept><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="task:1;3:19" oid="flood1" id="unique_11">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="title:1;4:12">How to flood a cookie</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="shortdesc:1;5:16">How to flood a cookie in the current style.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="p:1;8:16">The directions below explain how to flood in the current 
+                preferred style.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="steps:1;11:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:1;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:1;13:22">Outline the portion of the cookie you want to flood.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:2;16:22">Immediately fill inside of the outline with icing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:3;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:3;19:22">Gently pull icing out to edges using a scribe tool.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:4;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:4;22:22">Pop air bubbles and close frosting gaps with scribe tool.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:5;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:5;25:22">If needed, level your icing by gently shaking cookie side-to-side.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="task:1;3:21" oid="wetonwet" id="unique_12">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="title:1;4:12">How to do the wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="shortdesc:1;5:16">How to do the wet-on-wet icing technique.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="context:1;7:18">The wet-on-wet icing technique allows you to add details with other colors while
+            the flood layer is still wet and hasn't crusted. Your base flood icing and colored icing
+            details will dry as one even layer.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="cmd:1;12:22">Flood cookie with base color.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/wetonwet.dita" xtrc="cmd:2;15:22">Immediately add details with colored icing of same consistency.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="task:1;3:22" oid="polkadots" id="unique_13">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="title:1;4:12">How to create polka dots with wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="shortdesc:1;5:16">How to create polka dots with the wet-on-wet icing technique.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="context:1;7:18">Polka dots are an easy way to use the wet-on-wet icing technique.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="cmd:1;10:22">Squeeze piping bag gently to drop spots of colored icing into flooded base icing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="step:2;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="cmd:2;13:22">Release pressure on piping bag while lifting away from cookie.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="step:3;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/polkadots.dita" xtrc="cmd:3;16:22">Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="task:1;3:20" oid="stripes" id="unique_14">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="title:1;4:12">How to create stripes with wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="shortdesc:1;5:16">How to create stripes with wet-on-wet icing technique.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="context:1;7:18">You can make stripes using the wet-on-wet icing technique.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="steps:1;8:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="step:1;9:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="cmd:1;10:22">Touch colored icing piping bag down on edge of flooded base icing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="step:2;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="cmd:2;13:22">Lift icing bag slightly. Icing should hang from bag.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="step:3;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="cmd:3;16:22">Apply gentle, even pressure and pull icing across cookie in a straight line.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="step:4;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="cmd:4;19:22">Touch tip of piping bag down on end of line, then release pressure.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="step:5;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/stripes.dita" xtrc="cmd:5;22:22">Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="task:1;3:20" oid="zigzags" id="unique_15">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="title:1;4:12">How to create zig-zags with wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="shortdesc:1;5:16">How to create zig-zags with wet-on-wet icing technique.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="p:1;8:16">Zig-zags are a more advanced wet-on-wet icing technique.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="cmd:1;12:22">Pipe stripes, but do not let crust and dry.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="cmd:2;15:22">Gently drag scribe tool perpendicular to direction of stripes.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/zigzags.dita" xtrc="cmd:3;18:22">Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></task><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="concept:1;3:28" oid="detailpiping" id="unique_16">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="title:1;4:12">Detail Piping</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="shortdesc:1;5:16">Detail piping is often the key to gorgeous sugar cookies.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="p:1;7:12">Once your base layer has crusted, you can add details.
+            Common details include fine lines, flowers, script, and eyes.</p>
+        
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="p:2;10:12">Icing for detail piping must be thicker than flood icing,
+        about the consistency of toothpaste.</p>
+        
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="p:3;13:12">Wait for each detail icing layer to dry before adding another
+        for the most successful detail piping.</p>
+        
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/detailpiping.dita" xtrc="p:4;16:12">Extensive details can take hours and may be done over 1-3 days.
+        Small details make beautiful cookies!</p>
+    </conbody>
+</concept></concept></bookmap>

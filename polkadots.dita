@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="polkadots">
+    <title>How to create polka dots with wet-on-wet icing technique</title>
+    <shortdesc>Polka dots are an easy way to use the wet-on-wet icing technique.</shortdesc>
+    <taskbody>
+        <context>Learn how to make them by following these directions.</context>
+        <steps>
+            <step>
+                <cmd>Squeeze piping bag gently to drop spots of colored icing into flooded base icing.</cmd>
+            </step>
+            <step>
+                <cmd>Release pressure on piping bag while lifting away from cookie.</cmd>
+            </step>
+            <step>
+                <cmd>Let crust and dry.</cmd>
+            </step>
+        </steps>
+        <example>
+            <p>The images below show wet-on-wet polka dots as they are being placed and after they have dried.</p>
+            <image href="images/wetonwet/1.png" placement="break" height="300px" width="300px">
+                <alt>wet-on-wet polka dots before drying</alt>
+            </image>
+            <image href="images/wetonwet/2.jpg" placement="inline" height="300px" width="300px">
+                <alt>dry wet-on-wet polka dots</alt>
+            </image>
+        </example>
+    </taskbody>
+</task>

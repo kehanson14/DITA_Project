@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="nectools">
+    <title>Necessary Tools</title>
+    <shortdesc>You will need different tools for making, coloring, and decorating the icing.</shortdesc>
+    <refbody>
+        <section>
+            <title>Tools for making the icing</title>
+                <ul>
+                    <li>Large bowl</li>
+                    <li>Small whisk</li>
+                    <li>Spoon(s) or spatula(s)</li>
+                </ul>
+        </section>
+        <section>
+            <title>Tools for coloring the icing</title>
+            <ul>
+                <li>Spoon(s) or spatula(s)</li>
+                <li>Gel food coloring</li>
+                <li>One small bowl per icing color</li>
+                <li>One piping bag per icing color</li>
+                <li>Tall glass</li>
+            </ul>
+        </section>
+        <section>
+            <title>Tools for decorating</title>
+                <ul>
+                    <li>Your piping bags filled with flooding and decorating icings</li>
+                    <li>Scribe tool or toothpick</li>
+                    <li>Patience</li>
+                </ul>
+        </section>
+    </refbody>
+</reference>

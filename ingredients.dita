@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="tools">
+    <title>Royal Icing Ingredients</title>
+    <refbody>
+      <simpletable>
+          <strow>
+              <stentry>3 Tbsp</stentry>
+              <stentry>meringue powder</stentry>
+          </strow>
+          <strow>
+              <stentry>1/2 cup</stentry>
+              <stentry>warm water</stentry>
+          </strow>
+          <strow>
+              <stentry>3 Tbsp</stentry>
+              <stentry>light corn syrup</stentry>
+          </strow>
+          <strow>
+              <stentry>1 tsp</stentry>
+              <stentry>vanilla extract</stentry>
+          </strow>
+          <strow>
+              <stentry>1 tsp</stentry>
+              <stentry>almond extract</stentry>
+          </strow>
+          <strow>
+              <stentry>2 lbs</stentry>
+              <stentry>powdered sugar</stentry>
+          </strow>
+      </simpletable>
+    </refbody>
+</reference>

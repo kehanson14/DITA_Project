@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<bookmap xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" xtrc="bookmap:1;3:10" xtrf="file:/Users/katehanson/Desktop/DITA/techniques.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Icing Techniques</mainbooktitle>  </booktitle></oxy:front-page-title></oxy:front-page><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="flooding" oid="flooding">
+    <title class="- topic/title ">Flooding</title>
+    <shortdesc class="- topic/shortdesc ">Explanation of flooding technique.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Flooding gives your cookie an even base layer of icing to 
+            which you can later add details.</p>
+        <p class="- topic/p ">Icing used for flooding should have a consistency that is thin
+        enough to flow into itself but thick enough that it doesn't
+        drip off the cookie.</p>
+        <p class="- topic/p ">A perfectly flooded cookie has even thickness across the cookies,
+        is a little puffy, and has a slight shine after it has dried.</p>
+        <p class="- topic/p ">You can flood cookies in sections to add dimension, or flood
+        the entire cookie at once.</p>
+    </conbody>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="flood1" oid="flood1">
+    <title class="- topic/title ">How to flood a cookie</title>
+    <shortdesc class="- topic/shortdesc ">How to flood a cookie in the current style</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">The directions below explain how to flood in the current 
+                preferred style.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Outline the portion of the cookie you want to flood.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Immediately fill inside of the outline with icing.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Gently pull icing out to edges using a scribe tool.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Pop air bubbles and close frosting gaps with scribe tool.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If needed, level your icing by gently shaking cookie side-to-side.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="wetonwet" oid="wetonwet">
+    <title class="- topic/title ">How to do the wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc ">wet-on-wet decorating introduction</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">The wet-on-wet icing technique allows you to add details with 
+                other colors while the flood layer is still wet and hasn't 
+                crusted. Your base flood icing and colored icing details 
+                will dry as one even layer.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Flood cookie with base color.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Immediately add details with colored icing of same consistency.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="polkadots" oid="polkadots">
+    <title class="- topic/title ">How to create polka dots with wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc ">How to create polka dots with the wet-on-wet icing technique</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Squeeze piping bag gently to drop spots of colored icing into flooded base icing.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Release pressure on piping bag while lifting away from cookie.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="stripes" oid="stripes">
+    <title class="- topic/title ">How to create stripes with wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc ">How to create stripes with wet-on-wet icing technique</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Touch colored icing piping bag down on edge of flooded base icing.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Lift icing bag slightly. Icing should hang from bag.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Apply gentle, even pressure and pull icing across cookie in a straight line.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Touch tip of piping bag down on end of line, then release pressure.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="zigzags" oid="zigzags">
+    <title class="- topic/title ">How to create zig-zags with wet-on-wet icing technique</title>
+    <shortdesc class="- topic/shortdesc ">How to create zig-zags with wet-on-wet icing technique</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Pipe stripes, but do not let crust and dry.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Gently drag scribe tool perpendicular to direction of stripes.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></task><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="detailpiping" oid="detailpiping">
+    <title class="- topic/title ">Detail Piping</title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Once your base layer has crusted, you can add details.
+            Common details include fine lines, flowers, script, and eyes.</p>
+        
+        <p class="- topic/p ">Icing for detail piping must be thicker than flood icing,
+        about the consistency of toothpaste.</p>
+        
+        <p class="- topic/p ">Wait for each detail icing layer to dry before adding another
+        for the most successful detail piping.</p>
+        
+        <p class="- topic/p ">Extensive details can take hours and may be done over 1-3 days.
+        Small details make beautiful cookies!</p>
+    </conbody>
+</concept></bookmap>

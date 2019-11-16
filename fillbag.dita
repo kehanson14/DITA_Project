@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_i2r_5sr_sjb">
+    <title>How to fill a piping bag</title>
+    <shortdesc>There's a trick to it! Use a glass to hold your piping bag open while you fill it. This makes
+     much less of a mess!</shortdesc>
+    <taskbody>
+        <context>Once you're ready to start decorating, fill your piping bags with icing.</context>
+        <steps>
+            <step>
+                <cmd>Open bag and place inside a tall glass, then cuff bag over sides so it holds itself open.</cmd>
+            </step>
+            <step>
+                <cmd>Pour or scrape your icing into the bag.</cmd>
+            </step>
+            <step>
+                <cmd>Close bag by tying a knot, using a bag clip, or using a twistie.</cmd>
+            </step>
+        </steps>
+        <example>
+            <image href="images/icing.jpg" placement="break">
+                <alt>piping bags filled with icing</alt>
+            </image>
+        </example>
+    </taskbody>
+</task>

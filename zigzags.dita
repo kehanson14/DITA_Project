@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="zigzags">
+    <title>How to create zig-zags with wet-on-wet icing technique</title>
+    <shortdesc>Zig-zags are a more advanced wet-on-wet icing technique. 
+        Begin by piping stripes, then use a scribe tool to complete the design.</shortdesc>
+    <taskbody>
+        <context>
+            <p>After piping stripes, follow the directions below to create wet-on-wet zig-zags.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pipe stripes, but do not let crust and dry.</cmd>
+            </step>
+            <step>
+                <cmd>Gently drag scribe tool perpendicular to direction of stripes.</cmd>
+            </step>
+            <step>
+                <cmd>Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="stripes">
+    <title>How to create stripes with wet-on-wet icing technique</title>
+    <shortdesc>You can make stripes using the wet-on-wet icing technique. 
+        These can then be turned into zig-zags or allowed to dry as is!</shortdesc>
+    <taskbody>
+        <context>Wet-on-wet stripes can take lots of practice.</context>
+        <steps>
+            <step>
+                <cmd>Touch colored icing piping bag down on edge of flooded base icing.</cmd>
+            </step>
+            <step>
+                <cmd>Lift icing bag slightly. Icing should hang from bag.</cmd>
+            </step>
+            <step>
+                <cmd>Apply gentle, even pressure and pull icing across cookie in a straight line.</cmd>
+            </step>
+            <step>
+                <cmd>Touch tip of piping bag down on end of line, then release pressure.</cmd>
+            </step>
+            <step>
+                <cmd>Let crust and dry.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

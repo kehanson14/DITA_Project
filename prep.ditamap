@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Preparation</mainbooktitle>
+    </booktitle>
+    <chapter href="royalicing.dita"/>
+    <chapter href="nectools.dita"/>
+    <chapter href="ingredients.dita"/>
+    <chapter href="makingbase.dita"/>
+    <chapter href="coloring.dita">
+        <topicref href="darkcolors.dita"/>
+    </chapter>
+    <chapter href="fillbag.dita"/>
+</bookmap>

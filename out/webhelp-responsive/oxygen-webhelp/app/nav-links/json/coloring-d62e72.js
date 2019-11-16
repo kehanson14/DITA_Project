@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Note on deep and dark icing colors","shortdesc":"<p class=\"shortdesc\"></p>","href":"darkcolors.html","attributes": {"data-id":"darkcolors",},"menu": {"hasChildren":false,},"tocID":"darkcolors-d62e83","topics":[]}]});

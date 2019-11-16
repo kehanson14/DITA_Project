@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Icing Techniques</mainbooktitle>
+    </booktitle>
+    <chapter href="flooding.dita"/>
+    <chapter href="flood1.dita"/>
+    <chapter href="wetonwet.dita">
+        <topicref href="polkadots.dita"/>
+        <topicref href="stripes.dita"/>
+        <topicref href="zigzags.dita"/>
+    </chapter>
+    <chapter href="detailpiping.dita"/>
+</bookmap>

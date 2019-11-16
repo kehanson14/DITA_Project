@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="makingbase">
+    <title>How to make white royal icing</title>
+    <shortdesc>This recipe gives you your basic royal icing. You will later modify the 
+        consistency of this icing to make flooding icing and detail 
+        piping icing.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Do NOT overmix your icing. Overmixed royal icing doesn't dry well 
+            on cookies and will easily crumble and fall off the cookie. It
+            also tastes disgusting.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Whisk meringue powder and warm water together by hand with a small whisk in a large mixing bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Whisk in light corn syrup, vanilla extract, and almond extract.</cmd>
+            </step>
+            <step>
+                <cmd>Add the powdered sugar to the bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Move your bowl to a mixer and mix on low speed with a paddle for 30 seconds or
+                    until combined.</cmd>
+            </step>
+            <step>
+                <cmd>Scrape bottom and sides of bowl with a spatula.</cmd>
+            </step>
+            <step>
+                <cmd>Continue mixing on low speed for 2-3 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Look for stiff peaks in icing. To do this, put your paddle or 
+                    a spoon into the icing and then pull it out. The icing peaks 
+                    should stay formed with little to no bending or falling over.</cmd>
+            </step>
+            <step>
+                <cmd>If peaks are not stiff, mix for 1 more minute.</cmd>
+            </step>
+            <step>
+                <cmd>Cover in airtight container to prevent drying.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

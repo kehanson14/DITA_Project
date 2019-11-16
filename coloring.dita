@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="coloring">
+    <title>Coloring and Thinning Your Royal Icing</title>
+    <shortdesc>Royal icing is colored by mixing small amounts of water
+        and food gel coloring into the icing bowl. At times,
+        a few drops of water makes the difference between too thick, 
+        too thin, or just right.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Each icing color should be mixed in a separate bowl.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Squeeze a drop or two of gel food coloring into your 
+                    bowl of icing.</cmd>
+            </step>
+            <step>
+                <cmd>Thin your icing to the right consistency by adding 
+                    small amounts of water with a half-teaspoon or a 
+                    small spray bottle.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat steps 1 and 2 until your colors look good and your consistencies are perfect.</cmd>
+            </step>
+            <step>
+                <cmd>Cover in airtight container or place in piping bag or close.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

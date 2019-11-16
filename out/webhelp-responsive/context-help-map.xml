@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="intro" path="intro.html"/>
+   <appContext helpID="nectools" path="nectools.html"/>
+   <appContext helpID="royalicing" path="royalicing.html"/>
+   <appContext helpID="tools" path="ingredients.html"/>
+   <appContext helpID="makingbase" path="makingbase.html"/>
+   <appContext helpID="coloring" path="coloring.html"/>
+   <appContext helpID="consistencies" path="consistencies.html"/>
+   <appContext helpID="darkcolors" path="darkcolors.html"/>
+   <appContext helpID="techs" path="techs.html"/>
+   <appContext helpID="task_i2r_5sr_sjb" path="fillbag.html"/>
+   <appContext helpID="flooding" path="flooding.html"/>
+   <appContext helpID="flood1" path="flood1.html"/>
+   <appContext helpID="wetonwet" path="wetonwet.html"/>
+   <appContext helpID="polkadots" path="polkadots.html"/>
+   <appContext helpID="stripes" path="stripes.html"/>
+   <appContext helpID="zigzags" path="zigzags.html"/>
+   <appContext helpID="detailpiping" path="detailpiping.html"/>
+</map>

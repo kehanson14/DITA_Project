@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gs5_5hs_sjb">
+    <title>How to let your icing crust</title>
+    <shortdesc>methods to let your icing crust.</shortdesc>
+    <taskbody>
+        <context>There are multiple methods to letting your icing crust.</context>
+        <steps>
+            <step>
+                <cmd>Place in oven at 170 F for 10 minutes, then remove from oven and let cookies
+                    cool on pan.</cmd>
+            </step>
+            <step>
+                <cmd>Use a dehydrator.</cmd>
+            </step>
+            <step>
+                <cmd>Let icing air dry for several hours, then return later or the next day to add
+                    details.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

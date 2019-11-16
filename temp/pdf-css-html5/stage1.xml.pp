@@ -1,0 +1,283 @@
+<html xtrf="file:/Users/katehanson/Desktop/DITA/Cookies.ditamap"><head><meta charset="UTF-8"></meta><meta name="copyright" content="(C) Copyright 2019"></meta><meta name="DC.rights.owner" content="(C) Copyright 2019"></meta><meta name="DC.type" content="bookmap"></meta><meta name="DC.format" content="HTML5"></meta><meta name="DC.language" content="en"></meta>
+<link rel='stylesheet' type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css' />
+<link rel='stylesheet' type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/css/print/p-dita.css' />
+<link rel='stylesheet' type='text/css' href='file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css' />
+<title>Decorating Sugar Cookies</title></head><body class="wh_topic_page"><div class="wh_content_area"><div class="wh_topic_body"><div class="wh_topic_content"><div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map bookmap/bookmap map bookmap" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" xml:lang="en" lang="en"><div class="- front-page/front-page front-page"><div class="- front-page/front-page-title front-page-title"><div class="- topic/title bookmap/booktitle title booktitle">  <div class="- topic/ph bookmap/mainbooktitle ph mainbooktitle">Decorating Sugar Cookies</div>  </div></div></div><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" class="- topic/topic concept/concept topic concept nested0" aria-labelledby="ariaid-title1" break-before="true" is-chapter="true" id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="intro" oid="intro">
+    <h1 class="- topic/title title topictitle1" id="ariaid-title1">Welcome!</h1>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc">Why decorate sugar cookies?</p>
+        <p class="- topic/p p">Decorating sugar cookies with royal icing is a challenge.
+        However, the outcome is often beautiful (and delicious!).
+        Custom, hand-decorated cookies are expensive, so learning to 
+        decorate on your own can be very rewarding!</p>
+        <p class="- topic/p p">Detailed decorating takes focus; it can be a way to slow down,
+            relax, and direct your attention towards something besides life's
+            normal stressors. The best part of sugar cookie decorating 
+            is that if you make a mistake, you can just eat it!</p>
+    </div>
+</article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" class="- topic/topic concept/concept topic concept nested0" aria-labelledby="ariaid-title2" break-before="true" is-chapter="true" id="unique_2" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="royalicing" oid="royalicing">
+    <h1 class="- topic/title title topictitle1" id="ariaid-title2">Preparing Your Royal Icing</h1>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc">Explanation of royal icing in relation to sugar cookies.</p>
+        <p class="- topic/p p">Royal icing is used to decorate sugar cookies because it dries quickly and its
+            consistency is nice to work with when decorating.</p>
+        <p class="- topic/p p">Mastering icing consistency is the key to successful sugar cookie decorating.</p>
+        
+        <p class="- topic/p p">Royal icing is finicky and hard to work with until you get to know 
+            it through lots of hands-on practice. Many people give up because 
+            it's tricky to master. You might need several tries to get it right.</p>
+        
+        <p class="- topic/p p">Royal icing consistency is affected by the 
+            humidity in the air. Therefore, a specific ratio of water 
+            in any given recipe may have different results on different 
+            days when mixing for the consistency you desire.</p>
+        <p class="- topic/p p">You can watch videos on YouTube to learn how to get the right icing consistencies.</p>
+    </div>
+<article class="- topic/topic reference/reference topic reference nested1" aria-labelledby="ariaid-title3" id="unique_3" topicrefclass="- map/topicref " nd:nd-id="nectools" oid="nectools">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title3">Necessary Tools</h2>
+    
+    <div class="- topic/body reference/refbody body refbody"><p class="- topic/shortdesc shortdesc">Tools needed to make royal icing and decorate sugar cookies.</p>
+        <section class="- topic/section section"><h3 class="- topic/title title sectiontitle">Tools for icing preparation</h3>
+            
+                <ul class="- topic/ul ul">
+                    <li class="- topic/li li">Large bowl</li>
+                    <li class="- topic/li li">Small whisk</li>
+                    <li class="- topic/li li">Spoon(s) or spatula(s)</li>
+                    <li class="- topic/li li">Gel food coloring</li>
+                    <li class="- topic/li li">One small bowl per icing color</li>
+                    <li class="- topic/li li">One piping bag per icing color</li>
+                    <li class="- topic/li li">Tall glass</li>
+                </ul>
+        </section>
+        <section class="- topic/section section"><h3 class="- topic/title title sectiontitle">Tools for decorating</h3>
+            
+                <ul class="- topic/ul ul">
+                    <li class="- topic/li li">Your piping bags filled with flooding and decorating icings</li>
+                    <li class="- topic/li li">Scribe tool or toothpick</li>
+                    <li class="- topic/li li">Patience</li>
+                </ul>
+        </section>
+    </div>
+</article><article class="- topic/topic reference/reference topic reference nested1" aria-labelledby="ariaid-title4" id="unique_4" topicrefclass="- map/topicref " nd:nd-id="tools" oid="tools">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title4">Royal Icing Ingredients</h2>
+    
+    <div class="- topic/body reference/refbody body refbody"><p class="- topic/shortdesc shortdesc">Ingredients needed to make royal icing.</p>
+      <table class="- topic/simpletable simpletable"><colgroup><col style="width:50%"></col><col style="width:50%"></col></colgroup><tbody><tr class="- topic/strow strow">
+              <td class="- topic/stentry stentry">3 Tbsp</td>
+              <td class="- topic/stentry stentry">meringue powder</td>
+          </tr><tr class="- topic/strow strow">
+              <td class="- topic/stentry stentry">1/2 cup</td>
+              <td class="- topic/stentry stentry">warm water</td>
+          </tr><tr class="- topic/strow strow">
+              <td class="- topic/stentry stentry">3 Tbsp</td>
+              <td class="- topic/stentry stentry">light corn syrup</td>
+          </tr><tr class="- topic/strow strow">
+              <td class="- topic/stentry stentry">1 tsp</td>
+              <td class="- topic/stentry stentry">vanilla extract</td>
+          </tr><tr class="- topic/strow strow">
+              <td class="- topic/stentry stentry">1 tsp</td>
+              <td class="- topic/stentry stentry">almond extract</td>
+          </tr><tr class="- topic/strow strow">
+              <td class="- topic/stentry stentry">2 lbs</td>
+              <td class="- topic/stentry stentry">powdered sugar</td>
+          </tr></tbody></table>
+    </div>
+</article><article class="- topic/topic task/task topic task nested1" aria-labelledby="ariaid-title5" id="unique_5" topicrefclass="- map/topicref " nd:nd-id="makingbase" oid="makingbase">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title5">How to make white royal icing</h2>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to make your base royal icing.</p>
+        <section class="- topic/section task/context section context">
+            <p class="- topic/p p">This is your basic royal icing. You will later modify the 
+                consistency of this icing to make flooding icing and detail 
+                piping icing.</p>
+            <p class="- topic/p p">Do NOT overmix your icing. Overmixed royal icing doesn't dry well 
+            on cookies and will easily crumble and fall off the cookie. It
+            also tastes disgusting.</p>
+        </section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Whisk meringue powder and warm water together by hand with a small whisk in a large mixing bowl.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Whisk in light corn syrup, vanilla extract, and almond extract.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Add the powdered sugar to the bowl.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Move your bowl to a mixer and mix on low speed with a paddle for 30 seconds or
+                    until combined.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Scrape bottom and sides of bowl with a spatula.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Continue mixing on low speed for 2-3 minutes.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Look for stiff peaks in icing. To do this, put your paddle or 
+                    a spoon into the icing and then pull it out. The icing peaks 
+                    should stay formed with little to no bending or falling over.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">If peaks are not stiff, mix for 1 more minute.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Cover in airtight container to prevent drying.</span>
+            </li></ol></section>
+    </div>
+</article><article class="- topic/topic task/task topic task nested1" aria-labelledby="ariaid-title6" id="unique_6" topicrefclass="- map/topicref " nd:nd-id="coloring" oid="coloring">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title6">How to color and thin your icing</h2>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to color and thin royal icing.</p>
+        <section class="- topic/section task/context section context">
+            <p class="- topic/p p">Royal icing is colored by mixing small amounts of water
+                and food gel coloring into the icing bowl. At times,
+                a few drops of water makes the difference between too thick, 
+                too thin, or just right.</p>
+            <p class="- topic/p p">Each icing color should be mixed in a separate bowl.</p>
+        </section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Squeeze a drop or two of gel food coloring into your 
+                    bowl of icing.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Thin your icing to the right consistency by adding 
+                    small amounts of water with a half-teaspoon or a 
+                    small spray bottle.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Cover in airtight container or place in piping bag or close.</span>
+            </li></ol></section>
+    </div>
+<article class="- topic/topic concept/concept topic concept nested2" aria-labelledby="ariaid-title7" id="unique_7" topicrefclass="- map/topicref " nd:nd-id="darkcolors" oid="darkcolors">
+    <h3 class="- topic/title title topictitle3" id="ariaid-title7">Note on deep and dark icing colors</h3>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc"></p>
+        <p class="- topic/p p">Deep or dark colors such as red, navy blue, 
+            and black require a great deal of food coloring.</p> 
+            
+        <p class="- topic/p p">Colors intensify across time. If a dark color is needed, mix a good amount 
+            of color into the icing, then let icing sit in airtight bowl for at least 
+            two hours. This allows the color to darken and prevents you from adding 
+            too much coloring.</p>
+         
+        <p class="- topic/p p">Dark colors tend to stain the mouth when eaten.</p>
+    </div>
+</article></article><article class="- topic/topic task/task topic task nested1" aria-labelledby="ariaid-title8" id="unique_8" topicrefclass="- map/topicref " nd:nd-id="task_i2r_5sr_sjb" oid="task_i2r_5sr_sjb">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title8">How to fill a piping bag</h2>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to fill a piping bag.</p>
+        <section class="- topic/section task/context section context">Once you're ready to start decorating, fill your piping bags with icing.</section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Open bag and place inside a tall glass, then cuff bag over sides so it holds itself open.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Pour or scrape your icing into the bag.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Close bag by tying a knot, using a bag clip, or using a twistie.</span>
+            </li></ol></section>
+    </div>
+</article></article><article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" class="- topic/topic concept/concept topic concept nested0" aria-labelledby="ariaid-title9" break-before="true" is-chapter="true" id="unique_9" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="techs" oid="techs">
+    <h1 class="- topic/title title topictitle1" id="ariaid-title9">Icing Techniques</h1>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc"></p>
+        <p class="- topic/p p"></p>
+    </div>
+<article class="- topic/topic concept/concept topic concept nested1" aria-labelledby="ariaid-title10" id="unique_10" topicrefclass="- map/topicref " nd:nd-id="flooding" oid="flooding">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title10">Flooding</h2>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc">An explanation of the flooding technique.</p>
+        <p class="- topic/p p">Flooding gives your cookie an even base layer of icing to 
+            which you can later add details.</p>
+        <p class="- topic/p p">Icing used for flooding should have a consistency that is thin
+        enough to flow into itself but thick enough that it doesn't
+        drip off the cookie.</p>
+        <p class="- topic/p p">A perfectly flooded cookie has even thickness across the cookies,
+        is a little puffy, and has a slight shine after it has dried.</p>
+        <p class="- topic/p p">You can flood cookies in sections to add dimension, or flood
+        the entire cookie at once.</p>
+    </div>
+</article><article class="- topic/topic task/task topic task nested1" aria-labelledby="ariaid-title11" id="unique_11" topicrefclass="- map/topicref " nd:nd-id="flood1" oid="flood1">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title11">How to flood a cookie</h2>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to flood a cookie in the current style.</p>
+        <section class="- topic/section task/context section context">
+            <p class="- topic/p p">The directions below explain how to flood in the current 
+                preferred style.</p>
+        </section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Outline the portion of the cookie you want to flood.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Immediately fill inside of the outline with icing.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Gently pull icing out to edges using a scribe tool.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Pop air bubbles and close frosting gaps with scribe tool.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">If needed, level your icing by gently shaking cookie side-to-side.</span>
+            </li></ol></section>
+    </div>
+</article><article class="- topic/topic task/task topic task nested1" aria-labelledby="ariaid-title12" id="unique_12" topicrefclass="- map/topicref " nd:nd-id="wetonwet" oid="wetonwet">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title12">How to do the wet-on-wet icing technique</h2>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to do the wet-on-wet icing technique.</p>
+        <section class="- topic/section task/context section context">The wet-on-wet icing technique allows you to add details with other colors while
+            the flood layer is still wet and hasn't crusted. Your base flood icing and colored icing
+            details will dry as one even layer.</section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Flood cookie with base color.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Immediately add details with colored icing of same consistency.</span>
+            </li></ol></section>
+    </div>
+<article class="- topic/topic task/task topic task nested2" aria-labelledby="ariaid-title13" id="unique_13" topicrefclass="- map/topicref " nd:nd-id="polkadots" oid="polkadots">
+    <h3 class="- topic/title title topictitle3" id="ariaid-title13">How to create polka dots with wet-on-wet icing technique</h3>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to create polka dots with the wet-on-wet icing technique.</p>
+        <section class="- topic/section task/context section context">Polka dots are an easy way to use the wet-on-wet icing technique.</section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Squeeze piping bag gently to drop spots of colored icing into flooded base icing.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Release pressure on piping bag while lifting away from cookie.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Let crust and dry.</span>
+            </li></ol></section>
+    </div>
+</article><article class="- topic/topic task/task topic task nested2" aria-labelledby="ariaid-title14" id="unique_14" topicrefclass="- map/topicref " nd:nd-id="stripes" oid="stripes">
+    <h3 class="- topic/title title topictitle3" id="ariaid-title14">How to create stripes with wet-on-wet icing technique</h3>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to create stripes with wet-on-wet icing technique.</p>
+        <section class="- topic/section task/context section context">You can make stripes using the wet-on-wet icing technique.</section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Touch colored icing piping bag down on edge of flooded base icing.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Lift icing bag slightly. Icing should hang from bag.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Apply gentle, even pressure and pull icing across cookie in a straight line.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Touch tip of piping bag down on end of line, then release pressure.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Let crust and dry.</span>
+            </li></ol></section>
+    </div>
+</article><article class="- topic/topic task/task topic task nested2" aria-labelledby="ariaid-title15" id="unique_15" topicrefclass="- map/topicref " nd:nd-id="zigzags" oid="zigzags">
+    <h3 class="- topic/title title topictitle3" id="ariaid-title15">How to create zig-zags with wet-on-wet icing technique</h3>
+    
+    <div class="- topic/body task/taskbody body taskbody"><p class="- topic/shortdesc shortdesc">How to create zig-zags with wet-on-wet icing technique.</p>
+        <section class="- topic/section task/context section context">
+            <p class="- topic/p p">Zig-zags are a more advanced wet-on-wet icing technique.</p>
+        </section>
+        <section><ol class="- topic/ol task/steps ol steps"><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Pipe stripes, but do not let crust and dry.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Gently drag scribe tool perpendicular to direction of stripes.</span>
+            </li><li class="- topic/li task/step li step">
+                <span class="- topic/ph task/cmd ph cmd">Let crust and dry.</span>
+            </li></ol></section>
+    </div>
+</article></article><article class="- topic/topic concept/concept topic concept nested1" aria-labelledby="ariaid-title16" id="unique_16" topicrefclass="- map/topicref " nd:nd-id="detailpiping" oid="detailpiping">
+    <h2 class="- topic/title title topictitle2" id="ariaid-title16">Detail Piping</h2>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc">Detail piping is often the key to gorgeous sugar cookies.</p>
+        <p class="- topic/p p">Once your base layer has crusted, you can add details.
+            Common details include fine lines, flowers, script, and eyes.</p>
+        
+        <p class="- topic/p p">Icing for detail piping must be thicker than flood icing,
+        about the consistency of toothpaste.</p>
+        
+        <p class="- topic/p p">Wait for each detail icing layer to dry before adding another
+        for the most successful detail piping.</p>
+        
+        <p class="- topic/p p">Extensive details can take hours and may be done over 1-3 days.
+        Small details make beautiful cookies!</p>
+    </div>
+</article></article></div></div></div></div></body></html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="wetonwet">
+    <title>How to do the wet-on-wet icing technique</title>
+    <shortdesc>The wet-on-wet icing technique allows you to add details with other colors while
+        the flood layer is still wet and hasn't crusted. Your base flood icing and colored icing
+        details will dry as one even layer.</shortdesc>
+    <taskbody>
+        <context>This style of decorating adds a layer of mystery to non-decorators.</context>
+        <steps>
+            <step>
+                <cmd>Flood cookie with base color.</cmd>
+            </step>
+            <step>
+                <cmd>Immediately add details with colored icing of same consistency.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

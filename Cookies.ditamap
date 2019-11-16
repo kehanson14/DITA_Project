@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Decorating Sugar Cookies</mainbooktitle>
+    </booktitle>
+    <chapter href="intro.dita"/>
+    <chapter href="nectools.dita"/>
+    <chapter href="royalicing.dita">
+        <topicref href="ingredients.dita"/>
+        <topicref href="makingbase.dita"/>
+    </chapter>
+    <chapter href="coloring.dita">
+        <topicref href="consistencies.dita"/>
+        <topicref href="darkcolors.dita"/>
+    </chapter>
+    <chapter href="techs.dita">
+        <topicref href="fillbag.dita"/>
+        <topicref href="flooding.dita"/>
+        <topicref href="flood1.dita"/>
+        <topicref href="wetonwet.dita">
+            <topicref href="polkadots.dita"/>
+            <topicref href="stripes.dita"/>
+            <topicref href="zigzags.dita"/>
+        </topicref>
+        <topicref href="detailpiping.dita"/>
+    </chapter>
+</bookmap>

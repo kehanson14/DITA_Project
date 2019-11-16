@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="gallery">
+    <title>Photo Gallery</title>
+    <shortdesc>See different decorating techniques in use in this photo gallery! Use them as
+        inspiration.</shortdesc>
+    <refbody>
+        
+        <image></image> </refbody>
+</reference>

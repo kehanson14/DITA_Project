@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="consistencies">
+    <title>Royal icing consistencies</title>
+    <shortdesc>Icing used for flooding requires a very unique consistency, while icing used for other techniques 
+        should have a toothpaste-like consistency. Icing consistency is the key to decorating success.</shortdesc>
+    <conbody>
+        <p>Icing used for flooding should have a consistency that is thin
+            enough to flow into itself but thick enough that it doesn't
+            drip off the cookie.</p>
+        <p>Icing used for decorating should be a bit thicker than icing used for flooding. Decorating icing has 
+        an ideal consistency that matches toothpaste.</p>
+    </conbody>
+</concept>

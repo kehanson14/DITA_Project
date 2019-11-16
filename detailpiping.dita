@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="detailpiping">
+    <title>Detail Piping</title>
+    <shortdesc>Detail piping is often the key to gorgeous sugar cookies.</shortdesc>
+    <conbody>
+        <p>Once your base layer has crusted, you can add details.
+            Common details include fine lines, flowers, script, and eyes.</p>
+        
+        <p>Icing for detail piping must be thicker than flood icing,
+        about the consistency of toothpaste.</p>
+        
+        <p>Wait for each detail icing layer to dry before adding another
+        for the most successful detail piping.</p>
+        
+        <p>Extensive details can take hours and may be done over 1-3 days.
+        Small details make beautiful cookies!</p>
+        
+        <p>Many of the cookies below have been decorated with the detail piping technique.</p>
+        <image href="images/platter.jpg" placement="break" height="300px" width="300px">
+            <alt>detail piping on a cookie</alt>
+        </image>
+    </conbody>
+</concept>

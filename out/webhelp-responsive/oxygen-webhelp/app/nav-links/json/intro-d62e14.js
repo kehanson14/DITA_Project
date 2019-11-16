@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Necessary Tools","shortdesc":"<p class=\"shortdesc\">You will need different tools for each step of decorating.</p>","href":"nectools.html","attributes": {"data-id":"nectools",},"menu": {"hasChildren":false,},"tocID":"nectools-d62e25","topics":[]}]});
