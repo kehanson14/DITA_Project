@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp?><?workdir-uri file:/Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="tools" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="reference:1;3:23">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="title:1;4:12">Royal Icing Ingredients</title>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="refbody:1;5:14">
+      <simpletable class="- topic/simpletable " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="simpletable:1;6:20">
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:1;7:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:1;8:24">3 Tbsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:2;9:24">meringue powder</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:2;11:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:3;12:24">1/2 cup</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:4;13:24">warm water</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:3;15:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:5;16:24">3 Tbsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:6;17:24">light corn syrup</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:4;19:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:7;20:24">1 tsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:8;21:24">vanilla extract</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:5;23:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:9;24:24">1 tsp</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:10;25:24">almond extract</stentry>
+          </strow>
+          <strow class="- topic/strow " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="strow:6;27:18">
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:11;28:24">2 lbs</stentry>
+              <stentry class="- topic/stentry " xtrf="file:/Users/katehanson/Desktop/DITA/ingredients.dita" xtrc="stentry:12;29:24">powdered sugar</stentry>
+          </strow>
+      </simpletable>
+    </refbody>
+</reference>

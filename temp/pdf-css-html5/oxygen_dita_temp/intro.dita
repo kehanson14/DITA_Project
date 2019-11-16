@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp?><?workdir-uri file:/Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="intro" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="concept:1;3:21">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="title:1;4:12">Welcome!</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="shortdesc:1;5:16">Decorating sugar cookies with royal icing is a challenge.
+        However, the outcome is often beautiful (and delicious!).
+        Custom, hand-decorated cookies are expensive, so learning to 
+        decorate on your own can be very rewarding!</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="conbody:1;9:14">
+        <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/intro.dita" xtrc="p:1;10:12">Detailed decorating takes focus; it can be a way to slow down,
+            relax, and direct your attention towards something besides life's
+            normal stressors. The best part of sugar cookie decorating 
+            is that if you make a mistake, you can just eat it!</p>
+    </conbody>
+</concept>

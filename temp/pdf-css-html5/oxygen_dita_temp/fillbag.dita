@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp?><?workdir-uri file:/Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_i2r_5sr_sjb" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="task:1;3:29">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="title:1;4:12">How to fill a piping bag</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="shortdesc:1;5:16">There's a trick to it! Use a glass to hold your piping bag open while you fill it. This makes
+     much less of a mess!</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="context:1;8:18">Once you're ready to start decorating, fill your piping bags with icing.</context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="cmd:1;11:22">Open bag and place inside a tall glass, then cuff bag over sides so it holds itself open.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="step:2;13:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="cmd:2;14:22">Pour or scrape your icing into the bag.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="step:3;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="cmd:3;17:22">Close bag by tying a knot, using a bag clip, or using a twistie.</cmd>
+            </step>
+        </steps>
+        <example class="- topic/example " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="example:1;20:18">
+            <image href="images/icing.jpg" placement="break" class="- topic/image " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="image:1;21:62">
+                <alt class="- topic/alt " xtrf="file:/Users/katehanson/Desktop/DITA/fillbag.dita" xtrc="alt:1;22:22">piping bags filled with icing</alt>
+            </image>
+        </example>
+    </taskbody>
+</task>

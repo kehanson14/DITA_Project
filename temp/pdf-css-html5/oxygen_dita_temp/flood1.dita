@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp?><?workdir-uri file:/Users/katehanson/Desktop/DITA/temp/pdf-css-html5/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="flood1" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="task:1;3:19">
+    <title class="- topic/title " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="title:1;4:12">How to flood a cookie</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="shortdesc:1;5:16">There are multiple ways to flood a cookie, but we'll teach you the currently preferred style.
+    This style requires you to outline the cookie with flood icing, and then immediately fill it in.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="context:1;8:18">
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="p:1;9:16">This is the first step to decorating beautiful sugar cookies.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="steps:1;11:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:1;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:1;13:22">Outline the portion of the cookie you want to flood using a piping bag full of flooding icing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:2;16:22">Immediately fill inside of the outline with same icing.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:3;18:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:3;19:22">Gently pull icing out to cookie's edges using a scribe tool.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:4;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:4;22:22">Pop air bubbles and close frosting gaps with scribe tool.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="step:5;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="cmd:5;25:22">If needed, level your icing by gently shaking cookie side-to-side.</cmd>
+            </step>
+        </steps>
+        <example class="- topic/example " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="example:1;28:18">
+            <p class="- topic/p " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="p:2;29:16">The images below demonstrate steps 1-4.</p>
+            <image href="images/flood/1.png" placement="break" height="300px" width="300px" class="- topic/image " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="image:1;30:93">
+                <alt class="- topic/alt " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="alt:1;31:22">initial flooding outline</alt>
+            </image>
+            <image href="images/flood/2.png" placement="inline" height="300px" width="300px" class="- topic/image " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="image:2;33:94">
+                <alt class="- topic/alt " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="alt:2;34:22">flooding</alt>
+            </image>
+            <image href="images/flood/3.png" placement="inline" height="300px" width="300px" class="- topic/image " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="image:3;36:94">
+                <alt class="- topic/alt " xtrf="file:/Users/katehanson/Desktop/DITA/flood1.dita" xtrc="alt:3;37:22">finished flooding</alt>
+            </image>
+        </example>
+    </taskbody>
+</task>
