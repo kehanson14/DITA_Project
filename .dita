@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="definitions">
+    <title>Icing Techniques</title>
+    <shortdesc>descriptions of icing techniques</shortdesc>
+    <refbody>
+        <dl>
+           <dlentry>
+               <dt>Flooding</dt>
+               <dd></dd>
+           </dlentry>
+           <dlentry>
+                <dt>Wet-on-wet</dt>
+                <dd></dd>
+           </dlentry>
+           <dlentry>
+                <dt>Detail Piping</dt>
+                <dd></dd>
+           </dlentry>
+           <dlentry>
+                <dt>Stenciling</dt>
+                <dd></dd>
+           </dlentry>
+            <dlentry>
+                <dt>Airbrushing</dt>
+                <dd></dd>
+            </dlentry>
+        </dl></refbody>
+</reference>
